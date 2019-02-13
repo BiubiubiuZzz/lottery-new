@@ -1,0 +1,8 @@
+1：git@github.com:BiubiubiuZzz/lottery.git
+
+接上上次仓库的提交
+
+1：添加已使用和未使用的数量;views添加qr_used/qr_notused文件
+2：地址管理添加数量
+3：删除选项bug修复
+4：红包查询添加oped_id

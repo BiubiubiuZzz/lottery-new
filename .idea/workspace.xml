@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f1b62d-c9bf-47e0-ae40-d9df44cbe114" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/lottery.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+              <folding>
+                <element signature="e#21#171#0" expanded="true" />
+                <element signature="e#1778#2139#0" />
+                <element signature="e#2200#2583#0" />
+                <element signature="e#2654#3630#0" />
+                <element signature="e#3696#4707#0" />
+                <element signature="e#4760#5705#0" />
+                <element signature="e#5765#6745#0" />
+                <element signature="e#6807#7094#0" />
+                <element signature="e#7153#7472#0" />
+                <element signature="e#7525#7809#0" />
+                <element signature="e#7860#8197#0" />
+                <element signature="e#8253#8865#0" />
+                <element signature="e#8923#9550#0" />
+                <element signature="e#9611#10157#0" />
+                <element signature="e#10217#11762#0" />
+                <element signature="e#11822#12259#0" />
+                <element signature="e#12334#13027#0" />
+                <element signature="e#13108#13806#0" />
+                <element signature="e#13924#14787#0" />
+                <element signature="e#16660#18882#0" />
+                <element signature="e#18982#20033#0" />
+                <element signature="e#20086#20670#0" />
+                <element signature="e#20721#21340#0" />
+                <element signature="e#21390#23326#0" />
+                <element signature="e#23327#23333#0" />
+                <element signature="e#25496#25503#0" />
+                <element signature="e#27772#29352#0" />
+                <element signature="e#29446#31360#0" />
+                <element signature="n#!!block;n#GenAddressExcel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/QRcode_query.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>INSER</find>
+      <find>RemoveGift</find>
+      <find>WinnQuery</find>
+      <find>settingQuery</find>
+      <find>GetLeftQuantity</find>
+      <find />
+      <find>实物类型</find>
+      <find>gift.Odds</find>
+      <find>odds</find>
+      <find>GetRedQuantity</find>
+      <find>GetQR</find>
+      <find>GetQrcode</find>
+      <find>Winning/result</find>
+      <find>/redpack/result</find>
+      <find>GetRedPack</find>
+      <find>GetWinning</find>
+      <find>j</find>
+      <find>qrlist</find>
+      <find>redpackquery</find>
+      <find>GetRedPackUsedByGiftID</find>
+      <find>LuckybagLottory</find>
+      <find>RedPackQuery</find>
+      <find>地址</find>
+      <find>/address/management</find>
+      <find>GetAddress</find>
+      <find>/qrcode/queryById</find>
+      <find>QueryById</find>
+      <find>AddressQuery</find>
+      <find>GetAddressQuser</find>
+      <find>address/Query</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="E:\Program Files\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controllers/user.go" />
+        <option value="$PROJECT_DIR$/models/user.go" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/views/inc/mete.html" />
+        <option value="$PROJECT_DIR$/views/inc/foot.html" />
+        <option value="$PROJECT_DIR$/views/account_login.html" />
+        <option value="$PROJECT_DIR$/controllers/index.go" />
+        <option value="$PROJECT_DIR$/update.sql" />
+        <option value="$PROJECT_DIR$/controllers/lotteryuser.go" />
+        <option value="$PROJECT_DIR$/lotteryuser.sql" />
+        <option value="$PROJECT_DIR$/models/lotteryuser.go" />
+        <option value="$PROJECT_DIR$/controllers/session.go" />
+        <option value="$PROJECT_DIR$/views/inc/excel.html" />
+        <option value="$PROJECT_DIR$/views/inc/js.html" />
+        <option value="$PROJECT_DIR$/views/Delete_result.html" />
+        <option value="$USER_HOME$/Desktop/Lottery/views/Successful_editing.html" />
+        <option value="$PROJECT_DIR$/views/inc/meta.html" />
+        <option value="E:/概率.go" />
+        <option value="$PROJECT_DIR$/models/registerdb2.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/views/Activity_settings.html" />
+        <option value="$PROJECT_DIR$/models/registerdb.go" />
+        <option value="$PROJECT_DIR$/views/Winning_result.html" />
+        <option value="$PROJECT_DIR$/views/winning_query.html" />
+        <option value="$PROJECT_DIR$/views/redpack.html" />
+        <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/models/lottery.go" />
+        <option value="$PROJECT_DIR$/controllers/lotter.db.go" />
+        <option value="$PROJECT_DIR$/views/qr_use.html" />
+        <option value="$PROJECT_DIR$/views/qr_notuse.html" />
+        <option value="$PROJECT_DIR$/models/registerdb.go" />
+        <option value="$PROJECT_DIR$/models/registerdb2.go" />
+        <option value="$PROJECT_DIR$/controllers/lotter.db.go" />
+        <option value="$PROJECT_DIR$/views/Prize_settingRedpack.html" />
+        <option value="$PROJECT_DIR$/views/Prize_setting.html" />
+        <option value="$PROJECT_DIR$/views/Address_management.html" />
+        <option value="$PROJECT_DIR$/models/paginator.go" />
+        <option value="$PROJECT_DIR$/views/inc/paginator.html" />
+        <option value="$PROJECT_DIR$/views/QRcode_query.html" />
+        <option value="$PROJECT_DIR$/controllers/lottery.go" />
+        <option value="$PROJECT_DIR$/controllers/base.go" />
+        <option value="$PROJECT_DIR$/models/paginator.go" />
+        <option value="$PROJECT_DIR$/views/inc/paginator.html" />
+        <option value="$PROJECT_DIR$/controllers/base.go" />
+        <option value="$PROJECT_DIR$/views/Prize_settingRedpack.html" />
+        <option value="$PROJECT_DIR$/views/Prize_setting.html" />
+        <option value="$PROJECT_DIR$/views/Address_management.html" />
+        <option value="$PROJECT_DIR$/views/QRcode_query.html" />
+        <option value="$PROJECT_DIR$/controllers/lottery.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="797" />
+    <option name="y" value="120" />
+    <option name="width" value="1943" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottery" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottery" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottery" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottery" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lottery" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../updatemanager" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build Lottery" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="Lottery" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="Lottery" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16085792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18096514" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/lotteryuser.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/tools/go1.9.2.windows-amd64/src/runtime/panic.go" />
+    <entry file="file://C:/tools/go1.9.2.windows-amd64/src/runtime/asm_amd64.s" />
+    <entry file="file://C:/tools/go1.9.2.windows-amd64/src/reflect/value.go" />
+    <entry file="file://$PROJECT_DIR$/lotteryuser.sql" />
+    <entry file="file://D:/go/src/strconv/atoi.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/orm/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="345" column="37" selection-start-line="345" selection-start-column="37" selection-end-line="345" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/lotteryuser.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/youbon_update (2).sql" />
+    <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="513" column="21" selection-start-line="513" selection-start-column="21" selection-end-line="513" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Lottery/views/Successful_editing.html" />
+    <entry file="file://$PROJECT_DIR$/views/account_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Delete_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/foot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/head.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/meta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/概率.go" />
+    <entry file="file://D:/ChromeCoreDownloads/luckybag_lottory_gifts.sql" />
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="18" selection-start-line="18" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Activity_settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Winning_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="65" column="30" selection-start-line="63" selection-start-column="28" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/winning_query.html" />
+    <entry file="file://$PROJECT_DIR$/views/redpack.html" />
+    <entry file="file://$PROJECT_DIR$/views/inc/select_js.html" />
+    <entry file="file://$PROJECT_DIR$/views/inc/excel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Address_userEdit.html" />
+    <entry file="file://$PROJECT_DIR$/views/QR_query.html" />
+    <entry file="file://$PROJECT_DIR$/views/qr_use.html" />
+    <entry file="file://$PROJECT_DIR$/views/qr_notuse.html" />
+    <entry file="file://$PROJECT_DIR$/models/registerdb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/registerdb2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/lotter.db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="e#195#786#0" />
+            <element signature="e#776#782#0" />
+            <element signature="e#2087#2411#0" />
+            <element signature="e#2484#2964#0" />
+            <element signature="e#3053#3536#0" />
+            <element signature="e#3538#3590#0" />
+            <element signature="e#4387#4908#0" />
+            <element signature="e#4966#5271#0" />
+            <element signature="e#5334#5639#0" />
+            <element signature="e#5693#6422#0" />
+            <element signature="e#6474#7186#0" />
+            <element signature="e#7285#7844#0" />
+            <element signature="e#7951#8519#0" />
+            <element signature="e#8606#9201#0" />
+            <element signature="e#9295#9899#0" />
+            <element signature="e#9974#10708#0" />
+            <element signature="e#10864#12464#0" />
+            <element signature="e#11467#11812#0" />
+            <element signature="e#11895#12209#0" />
+            <element signature="e#12261#12515#0" />
+            <element signature="e#12604#12679#0" />
+            <element signature="e#12726#13075#0" />
+            <element signature="e#13153#13228#0" />
+            <element signature="e#13307#14081#0" />
+            <element signature="e#14174#14519#0" />
+            <element signature="e#14609#14981#0" />
+            <element signature="e#15054#15390#0" />
+            <element signature="e#15479#16017#0" />
+            <element signature="e#16094#16511#0" />
+            <element signature="e#16594#17127#0" />
+            <element signature="e#17129#17215#0" />
+            <element signature="e#17620#17872#0" />
+            <element signature="e#17953#18492#0" />
+            <element signature="e#18579#18656#0" />
+            <element signature="e#18658#18670#0" />
+            <element signature="e#18895#19246#0" />
+            <element signature="e#19296#19579#0" />
+            <element signature="e#19652#19944#0" />
+            <element signature="e#19997#20281#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Activity_EditeSettings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Delete_address.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index_index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="124" column="7" selection-start-line="124" selection-start-column="7" selection-end-line="124" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/index.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/paginator.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#15#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/paginator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#216#220#1#HTML" expanded="true" />
+            <element signature="e#354#358#1#HTML" expanded="true" />
+            <element signature="e#665#669#1#HTML" expanded="true" />
+            <element signature="e#820#824#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/base.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#21#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Prize_settingRedpack.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="100" column="138" selection-start-line="100" selection-start-column="115" selection-end-line="100" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Prize_setting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="85" column="39" lean-forward="true" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Address_management.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/lotteryuser.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/pager.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/QRcode_query.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/lottery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/lottery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <folding>
+            <element signature="e#21#171#0" expanded="true" />
+            <element signature="e#1778#2139#0" />
+            <element signature="e#2200#2583#0" />
+            <element signature="e#2654#3630#0" />
+            <element signature="e#3696#4707#0" />
+            <element signature="e#4760#5705#0" />
+            <element signature="e#5765#6745#0" />
+            <element signature="e#6807#7094#0" />
+            <element signature="e#7153#7472#0" />
+            <element signature="e#7525#7809#0" />
+            <element signature="e#7860#8197#0" />
+            <element signature="e#8253#8865#0" />
+            <element signature="e#8923#9550#0" />
+            <element signature="e#9611#10157#0" />
+            <element signature="e#10217#11762#0" />
+            <element signature="e#11822#12259#0" />
+            <element signature="e#12334#13027#0" />
+            <element signature="e#13108#13806#0" />
+            <element signature="e#13924#14787#0" />
+            <element signature="e#16660#18882#0" />
+            <element signature="e#18982#20033#0" />
+            <element signature="e#20086#20670#0" />
+            <element signature="e#20721#21340#0" />
+            <element signature="e#21390#23326#0" />
+            <element signature="e#23327#23333#0" />
+            <element signature="e#25496#25503#0" />
+            <element signature="e#27772#29352#0" />
+            <element signature="e#29446#31360#0" />
+            <element signature="n#!!block;n#GenAddressExcel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
